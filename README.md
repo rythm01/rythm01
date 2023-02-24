@@ -1,16 +1,28 @@
-### Hi there 👋
+<div style="align-items: center; display:flex; align-items:center;  justify-content:center;"">
+    ![It's Ridham](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+</div>
+<h1 align="center">Hey there.. 👋, I'm Ridham Chauhan</h1>
 
-<!--
-**rythm01/rythm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/Im_Ridham_" target="blank"><img src="https://img.shields.io/twitter/follow/Im_Ridham_?logo=twitter&style=for-the-badge" alt="Im_Ridham_" /></a> </p>
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently working on **Backend Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Backend Development and React.js**
+
+- 📫 How to reach me **ridhamchauhan693@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://twitter.com/Im_Ridham_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Im_Ridham_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ridham-chauhan-2a8a28259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridham" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,java,git,c,cpp,github,jquery,nodejs,stackoverflow,vscode,php,html,css,bootstrap&perline=11" />
+  </a>
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=Ridham&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
