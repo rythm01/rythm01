@@ -1,5 +1,5 @@
-<div style="align-items: center; display:flex; align-items:center;  justify-content:center;"">
-    ![It's Ridham](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 </div>
 <h1 align="center">Hey there.. 👋, I'm Ridham Chauhan</h1>
 
