@@ -1,3 +1,7 @@
+<a href="https://visitcount.itsvg.in">
+   <img src="https://visitcount.itsvg.in/api?id=Ridham&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views">
+</a>
+
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 </div>
@@ -24,9 +28,5 @@
     <img src="https://skillicons.dev/icons?i=react,java,git,c,cpp,figma,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,angular,linux,idea,github,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,bootstrap&perline=11" />
   </a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rythm01&show_icons=true&locale=en" alt="rythm01" /></p>
 
-<a href="https://visitcount.itsvg.in">
-   <img src="https://visitcount.itsvg.in/api?id=Ridham&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views">
-</a>
-
+<img align="left" width="33%" height="30%" src="https://github-readme-stats.vercel.app/api?username=rythm01&show_icons=true&theme=tokyonight">
