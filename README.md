@@ -22,6 +22,8 @@
 <a href="https://www.linkedin.com/in/ridham-chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridham" height="30" width="40" /></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/rythm01/rythm01/output/snake.svg" alt="Snake animation" />
+
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
