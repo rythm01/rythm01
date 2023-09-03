@@ -1,6 +1,4 @@
-<a href="https://visitcount.itsvg.in">
-   <img src="https://visitcount.itsvg.in/api?id=Ridham&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views">
-</a>
+![](https://visitcount.itsvg.in/api?id=Ridham&label=Profile%20Views&color=1&icon=0&pretty=true)
 
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
