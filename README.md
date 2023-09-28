@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Backend Development and React.js**
+- 🌱 I’m currently learning **Block-chain Development and Next.js**
 
 - 📫 How to reach me **ridhamchauhan693@gmail.com**
 
@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,java,git,c,cpp,figma,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,angular,linux,idea,github,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,bootstrap&perline=11" />
+    <img src="https://skillicons.dev/icons?i=react,java,py,git,c,cpp,figma,firebase,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,angular,linux,idea,github,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,bootstrap,vercel&perline=11" />
   </a>
 </p>
 
