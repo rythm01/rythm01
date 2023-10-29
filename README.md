@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/ridham-chauhan/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridham" height="60" width="50" /></a>
 </p>
 
-## Achivements <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" />
+## Achievements <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" />
 <table>
 <tr>
 <td ><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115993280/278853664-0a4d414e-20db-4582-8b44-885def022881.png" width="auto" height="auto" max-width="100%"></td>
