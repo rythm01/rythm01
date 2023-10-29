@@ -14,13 +14,19 @@
 - 📫 How to reach me **ridhamchauhan693@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
-<a href="https://twitter.com/Im_Ridham_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Im_Ridham_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ridham-chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridham" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://twitter.com/Im_Ridham_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Im_Ridham_" height="60" width="50" /></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/ridham-chauhan/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridham" height="60" width="50" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/rythm01/rythm01/output/snake.svg" alt="Snake animation" />
+## Achivements <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" />
+<table>
+<tr>
+<td ><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115993280/278853664-0a4d414e-20db-4582-8b44-885def022881.png" width="auto" height="auto" max-width="100%"></td>
+<td ><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115993280/278853707-965fdb14-146e-4b0c-9f36-0930e3491613.png" width="auto" height="auto" max-width="100%"></td>
+</tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
