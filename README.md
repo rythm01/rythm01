@@ -31,7 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,java,py,git,c,cpp,figma,firebase,aws,django,docker,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,sqlite,angular,linux,idea,github,githubactions,azure,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,ts,npm,yarn,bootstrap,qt,selenium,vercel&perline=11" />
+    <img src="https://skillicons.dev/icons?i=react,java,py,git,c,cpp,figma,firebase,aws,django,docker,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,sqlite,angular,linux,idea,github,githubactions,azure,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,ts,npm,yarn,bootstrap,qt,fastapi,selenium,vercel&perline=11" />
   </a>
 </p>
 
