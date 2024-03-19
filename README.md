@@ -30,9 +30,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,java,py,git,c,cpp,figma,firebase,aws,django,docker,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,sqlite,angular,linux,idea,github,githubactions,azure,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,ts,npm,yarn,bootstrap,qt,fastapi,selenium,vercel&perline=11" />
-  </a>
-</p>
+  <div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <!-- Skill Icons -->
+    <div style="display: flex; flex-wrap: wrap;">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react,java,py,git,c,cpp,figma,firebase,aws,django,docker,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,sqlite,angular,linux,idea,github,githubactions,azure,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,ts,npm,yarn,bootstrap,qt,fastapi,selenium,vercel&perline=11" />
+        </a>
+    </div>
+        <a href="https://streamlit.io">
+            <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40" />
+        </a>
+    </div>
+</div>
 
 <img align="left" width="33%" height="30%" src="https://github-readme-stats.vercel.app/api?username=rythm01&show_icons=true&theme=tokyonight">
