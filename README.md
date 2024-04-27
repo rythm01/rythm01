@@ -30,17 +30,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <div style="display: flex; flex-wrap: wrap; align-items: center;">
+ <div style="display: flex; flex-wrap: wrap; align-items: center;">
     <!-- Skill Icons -->
     <div style="display: flex; flex-wrap: wrap;">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,java,py,git,c,cpp,figma,firebase,aws,django,docker,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,sqlite,angular,linux,idea,github,githubactions,azure,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,ts,npm,yarn,bootstrap,qt,fastapi,selenium,vercel&perline=11" />
+            <img src="https://skillicons.dev/icons?i=react,java,py,git,c,cpp,figma,firebase,aws,django,docker,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,sqlite,angular,linux,idea,github,githubactions,azure,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,ts,npm,yarn,bootstrap,qt,fastapi,selenium,vercel,styledcomponents,jenkins,sequelize,notion,bots,babel,graphql,latex,kali,svg&perline=11" />
         </a>
     </div>
-        <a href="https://streamlit.io">
-            <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40" />
-        </a>
-    </div>
+    <a href="https://streamlit.io">
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40" />
+    </a>
+    <a href="https://playwright.dev/">
+        <img src="https://github.com/rythm01/rythm01/assets/115993280/f7f7e3fe-d06c-4b9e-9094-352fc661e316" alt="Playwright" width="40" height="40" />
+    </a>
+     <a href="https://docs.pytest.org/en/8.1.x/">
+        <img src="https://github.com/rythm01/rythm01/assets/115993280/9675c421-828b-479c-8aea-a24fd222b2bc" alt="Pytest" width="40" height="40" />
+     </a>
+     <a href="https://pyinstaller.org/en/stable/">
+        <img src="https://github.com/rythm01/rythm01/assets/115993280/c05564a5-b298-404c-8b76-8599c215ed80" alt="Pyinstaller" width="40" height="40" />
+     </a>
 </div>
 
 <img align="left" width="33%" height="30%" src="https://github-readme-stats.vercel.app/api?username=rythm01&show_icons=true&theme=tokyonight">
