@@ -49,6 +49,9 @@
      <a href="https://pyinstaller.org/en/stable/">
         <img src="https://github.com/rythm01/rythm01/assets/115993280/c05564a5-b298-404c-8b76-8599c215ed80" alt="Pyinstaller" width="40" height="40" />
      </a>
+     <a href="https://jupyter.org/">
+        <img src="https://github.com/rythm01/rythm01/assets/115993280/fd40fbfb-90a0-45da-a9f1-fc6a7f684a7c" alt="Jupyter Notebook" width="40" height="40" />
+     </a>
 </div>
 
 <img align="left" width="33%" height="30%" src="https://github-readme-stats.vercel.app/api?username=rythm01&show_icons=true&theme=tokyonight">
