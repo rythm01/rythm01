@@ -7,10 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/Im_Ridham_" target="blank"><img src="https://img.shields.io/twitter/follow/Im_Ridham_?logo=twitter&style=for-the-badge" alt="Im_Ridham_" /></a> </p>
 
-- 👨‍💻 I’m currently working on **Backend Development**
+- 👨‍💻 I’m currently working on a Project **AccuVelocity**
 
-- 🌱 Exploring the world of **Python and AI with enthusiasm!** 🚀🐍
-
+- 🌱 Embracing Learning: **Python and React Native** 🐍⚡
+- 
 - 📫 How to reach me **ridhamchauhan693@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
