@@ -10,7 +10,7 @@
 - 👨‍💻 I’m currently working on a Project **AccuVelocity**
 
 - 🌱 Embracing Learning: **Python and React Native** 🐍⚡
-- 
+
 - 📫 How to reach me **ridhamchauhan693@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
