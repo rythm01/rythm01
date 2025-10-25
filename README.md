@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/Im_Ridham_" target="blank"><img src="https://img.shields.io/twitter/follow/Im_Ridham_?logo=twitter&style=for-the-badge" alt="Im_Ridham_" /></a> </p>
 
-- 👨‍💻 I’m currently working on a Project **AccuVelocity**
-
-- 🌱 Embracing Learning: **Python and React Native** 🐍⚡
-
 - 📫 How to reach me **ridhamchauhan693@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -34,7 +30,7 @@
     <!-- Skill Icons -->
     <div style="display: flex; flex-wrap: wrap;">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,java,py,git,c,cpp,figma,firebase,aws,django,docker,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,sqlite,angular,linux,idea,github,githubactions,azure,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,ts,npm,yarn,bootstrap,qt,fastapi,selenium,vercel,styledcomponents,jenkins,sequelize,notion,bots,babel,graphql,latex,kali,svg&perline=11" />
+            <img src="https://skillicons.dev/icons?i=react,java,py,git,c,cpp,figma,firebase,aws,nginx,django,docker,materialui,mongodb,mysql,tailwind,vite,redux,postman,eclipse,androidstudio,sqlite,angular,linux,idea,github,githubactions,azure,jquery,nodejs,express,bash,stackoverflow,vscode,php,html,css,js,ts,npm,yarn,bootstrap,qt,fastapi,selenium,vercel,styledcomponents,jenkins,sequelize,notion,bots,babel,graphql,latex,kali,svg&perline=11" />
         </a>
     </div>
     <a href="https://streamlit.io">
